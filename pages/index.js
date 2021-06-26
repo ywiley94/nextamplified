@@ -2,7 +2,7 @@
 import { AmplifyAuthenticator } from "@aws-amplify/ui-react";
 import { Amplify, API, Auth, withSSRContext } from "aws-amplify";
 import Head from "next/head";
-import awsExports from "../src/aws-exports";
+import awsExports from "../src/aws-exports.js";
 import { createPost } from "../src/graphql/mutations";
 import { listPosts } from "../src/graphql/queries";
 import styles from "../styles/Home.module.css";
