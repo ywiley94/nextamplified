@@ -8,10 +8,10 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-
-![aws](https://user-images.githubusercontent.com/29158874/136909797-47d9fe40-de35-4bb3-9a7f-07e37adaf2a1.png)
-
 ```
+
+[aws](https://user-images.githubusercontent.com/29158874/136909858-88c3351b-265c-4336-8de7-633ccd04ea1f.png)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
